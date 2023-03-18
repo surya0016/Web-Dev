@@ -1,0 +1,16 @@
+body{
+    background-color: blue; 
+}
+h1{
+    color: white;
+}
+p{
+    color: #00ff00;
+    background-color: black;
+}
+/* #p2{
+    color: aquamarine;
+} */ 
+.even{
+    color: #00ff00; 
+}

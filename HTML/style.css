@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px dashed red;
+    font-size: 1.5rem;
+    padding: 1em;
+    margin-top: 1em;
+    margin-right: 1em;
+    margin-left: 1em;
+}
+ 

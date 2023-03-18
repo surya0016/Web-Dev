@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(56, 56, 56);
+}
+.login-page{
+    background-color: whitesmoke;
+    padding: 30px 120px;
+    width: 550px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    border-radius: 10px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+
+}
+.login-page h2{
+    margin-bottom: 20px;
+}
+.login-page button img{
+    width: 18px;
+    margin-right: 10px;
+}
+.login-page button{
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+    border-radius: 30px;
+    background: transparent;
+    border: 1px solid #999;
+    font-weight: 500;
+    cursor: pointer;
+}
+.login-page hr{
+    border: 0;
+    height: 1px;
+    background-color: #c2c2c2;
+    margin: 5px;
+
+}
+.login-page span{
+    display: block;
+    width: 40px;
+    margin: auto;
+    background: #fff;
+    font-size: 14px;
+    margin-top: -15px;
+}
+.login-page input{
+    width: 100%;
+    background: transparent;
+    border: 1px solid #999;
+    outline: 0px;
+    padding: 15px 10px;
+    border-radius: 4px;
+    margin: 10px 0;
+}
+::placeholder{
+    font-weight: 500;
+    color: #333;
+}
+.login-page form button{
+    background: black;
+    color: white;
+    border: 0;
+    margin-bottom: 15px ;
+}
+.login-page p{
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+    margin: 40px 0 40px;
+}
+.login-page p a{
+    text-decoration: none;
+    color: #359cf0;
+}

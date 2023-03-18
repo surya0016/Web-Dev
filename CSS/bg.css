@@ -1,0 +1,20 @@
+body{
+    background-image:url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
+
+h1{
+    background:linear-gradient(to left, pink,lightblue);
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+}
+
+p{
+    background:linear-gradient(to left, pink,lightblue);
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+}

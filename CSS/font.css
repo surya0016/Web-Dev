@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    ;
+}
+h1{
+    color: #00ff00;
+    font-family: "press Start 2p","consolas" ;
+
+}
+p{
+    color: rgb(0, 250, 250);
+    font-family:"oswald";
+    font-size: large;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: #00ff00 dotted underline ;
+
+}
